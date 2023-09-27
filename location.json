@@ -1,0 +1,491 @@
+{
+    "AMOY STREET FOOD CENTRE": [
+      "7 Maxwell Rd",
+      "AMOY STREET FOOD CENTRE",
+      1.2794274,
+      103.8442208
+    ],
+    "BEDOK FOOD CENTRE": [
+      "1 Bedok Rd",
+      "BEDOK FOOD CENTRE",
+      1.3205241,
+      103.948771
+    ],
+    "BEO CRESCENT MARKET": [
+      "38A Beo Cres",
+      "BEO CRESCENT MARKET",
+      1.2887207,
+      103.8226479
+    ],
+    "BERSEH FOOD CENTRE": [
+      "166 Jln Besar",
+      "BERSEH FOOD CENTRE",
+      1.3073539,
+      103.8541745
+    ],
+    "BLK 1 JALAN KUKOH": [
+      "Jalan Kukoh Food Centre",
+      1.2882538,
+      103.8392417
+    ],
+    "BLK 105 HOUGANG AVENUE 1": [
+      "Hougang Avenue 1 Block 105 Market and Food Centre",
+      1.3540215,
+      103.8851514
+    ],
+    "BLK 11 TELOK BLANGAH CRESCENT": [
+      "Telok Blangah Crescent Market & Food Centre",
+      1.277271,
+      103.816204
+    ],
+    "BLK 112 JALAN BUKIT MERAH": [
+      "112 Bukit Merah Market & Food Centre",
+      1.2807783,
+      103.8232684
+    ],
+    "BLK 115 BUKIT MERAH VIEW": [
+      "Bukit Merah View Market & Hawker Centre",
+      1.2854726,
+      103.8196941
+    ],
+    "BLK 117 ALJUNIED AVENUE 2": [
+      "Aljunied Avenue 2 Market & Food Centre",
+      1.3204572,
+      103.8840644
+    ],
+    "BLK 120 BUKIT MERAH LANE 1": [
+      "Alexandra Village Food Centre",
+      1.2862769,
+      103.8019168
+    ],
+    "BLK 127 TOA PAYOH LORONG 1": [
+      "Toa Payoh West Market & Food Centre",
+      1.3381098,
+      103.8421463
+    ],
+    "BLK 137 TAMPINES STREET 11": [
+      "Tampines Round Market & Food Centre",
+      1.3458593,
+      103.942423
+    ],
+    "BLK 14 HAIG ROAD": [
+      "Haig Road Market & Food Centre",
+      1.3152015,
+      103.8906789
+    ],
+    "BLK 159 MEI CHIN ROAD": [
+      "Mei Ling Market & Food Centre",
+      1.2932672,
+      103.8003078
+    ],
+    "BLK 16 BEDOK SOUTH ROAD": [
+      "Block 16 Bedok South Market & Food Centre",
+      1.3204181,
+      103.9329135
+    ],
+    "BLK 162 ANG MO KIO AVENUE 4": [
+      "Mayflower Market and Food Centre",
+      1.3741844,
+      103.8362547
+    ],
+    "BLK 163 BUKIT MERAH CENTRAL": [
+      "Bukit Merah Central Food Centre",
+      1.2834536,
+      103.8125348
+    ],
+    "BLK 17 UPPER BOON KENG ROAD": [
+      "Upper Boon Keng Market & Food Centre",
+      1.3150243,
+      103.8690891
+    ],
+    "BLK 2 CHANGI VILLAGE ROAD": [
+      "Changi Village Hawker Centre",
+      1.3892233,
+      103.9851831
+    ],
+    "BLK 20 GHIM MOH ROAD": [
+      "20 Ghim Moh Road Market & Food Centre",
+      1.3109708,
+      103.7834376
+    ],
+    "BLK 20 MARSILING LANE": [
+      "Marsiling Lane Food Centre",
+      1.4434601,
+      103.7743034
+    ],
+    "BLK 210 TOA PAYOH LORONG 8": [
+      "Toa Payoh Lorong 8 Market & Hawker Centre",
+      1.3401747,
+      103.8517597
+    ],
+    "BLK 216 BEDOK NORTH STREET 1": [
+      "Blk 216 Bedok Food Centre and Market",
+      1.3275219,
+      103.928509
+    ],
+    "BLK 22 TOA PAYOH LORONG 7": [
+      "Kim Keat Palm Market and Food Centre",
+      1.3354163,
+      103.8544675
+    ],
+    "BLK 226D ANG MO KIO AVENUE 1": [
+      "Kebun Baru Mall",
+      1.3668917,
+      103.838749
+    ],
+    "BLK 226H ANG MO KIO STREET 22": [
+      "Kebun Baru Market and Food Centre",
+      1.3672411,
+      103.8374756
+    ],
+    "BLK 22A HAVELOCK ROAD": [
+      "Havelock Road Cooked Food Centre A",
+      1.2878515,
+      103.8294403
+    ],
+    "BLK 22B HAVELOCK ROAD": [
+      "Havelock Road Cooked Food Centre B",
+      1.2878515,
+      103.8294403
+    ],
+    "BLK 254 JURONG EAST STREET 24": [
+      "Yuhua Village Market and Food Centre",
+      1.3437572,
+      103.7353297
+    ],
+    "BLK 270 QUEEN STREET": [
+      "Albert Centre",
+      1.3007806,
+      103.8513609
+    ],
+    "BLK 29 BENDEMEER ROAD": [
+      "Bendemeer Market & Food Centre",
+      1.3192,
+      103.8605477
+    ],
+    "BLK 3 CHANGI VILLAGE ROAD": [
+      "Changi Village Market",
+      1.3897996,
+      103.9873378
+    ],
+    "BLK 32 NEW MARKET ROAD": [
+      "People Park Food Centre",
+      1.2848285,
+      103.8400211
+    ],
+    "BLK 320 SHUNFU ROAD": [
+      "Shunfu Mart",
+      1.35198,
+      103.8364734
+    ],
+    "BLK 335 SMITH STREET": [
+      "Chinatown Complex",
+      1.2824153,
+      103.8406508
+    ],
+    "BLK 347 JURONG EAST AVENUE 1": [
+      "Yuhua Market & Hawker Centre",
+      1.3449985,
+      103.7266553
+    ],
+    "BLK 36 TELOK BLANGAH RISE": [
+      "Telok Blangah Rise Market & Food Centre",
+      1.2724567,
+      103.8193553
+    ],
+    "BLK 37A TEBAN GARDENS ROAD": [
+      "Teban Gardens Food Centre",
+      1.320677,
+      103.7401904
+    ],
+    "BLK 41A CAMBRIDGE ROAD": [
+      "Pek Kio Market & Food Centre",
+      1.3158865,
+      103.847623
+    ],
+    "BLK 44 HOLLAND DRIVE": [
+      "Holland Drive Market and Food Centre",
+      1.308167,
+      103.7902243
+    ],
+    "BLK 453A ANG MO KIO AVENUE 10": [
+      "Chong Boon Market & Food Centre",
+      1.3682305,
+      103.853826
+    ],
+    "BLK 49 SIMS PLACE": [
+      "Sims Vista Market & Food Centre",
+      1.3169434,
+      103.8768843
+    ],
+    "BLK 4A EUNOS CRESCENT": [
+      "Eunos Crescent Market and Food Centre",
+      1.3207071,
+      103.9009402
+    ],
+    "BLK 4A JALAN BATU": [
+      "Blk 4A Jalan Batu Hawker Centre",
+      1.3021706,
+      103.8790125
+    ],
+    "BLK 503 WEST COAST DRIVE": [
+      "Ayer Rajah Food Centre",
+      1.3120587,
+      103.7569596
+    ],
+    "BLK 50A MARINE TERRACE": [
+      "50A Marine Terrace Market",
+      1.3057213,
+      103.9130815
+    ],
+    "BLK 51 OLD AIRPORT ROAD": [
+      "Old Airport Road Food Centre",
+      1.3081449,
+      103.8832538
+    ],
+    "BLK 511 BEDOK NORTH STREET 3": [
+      "Bedok North 511 Market & Food Centre",
+      1.333186,
+      103.9280831
+    ],
+    "BLK 527 ANG MO KIO AVENUE 10": [
+      "Ang Mo Kio Avenue 10 Block 527 Market and Food Centre",
+      1.3727384,
+      103.8518312
+    ],
+    "BLK 531A UPPER CROSS STREET": [
+      "Hong Lim Market & Food Centre",
+      1.2853948,
+      103.8446095
+    ],
+    "BLK 538 BEDOK NORTH STREET 3": [
+      "Bedok 538 Market and Food Centre",
+      1.3319264,
+      103.9224393
+    ],
+    "BLK 58 NEW UPPER CHANGI ROAD": [
+      "The Marketplace @ 58",
+      1.3240631,
+      103.9398835
+    ],
+    "BLK 6 JALAN BUKIT MERAH": [
+      "ABC Brickworks",
+      1.2869915,
+      103.8055791
+    ],
+    "BLK 6 TANJONG PAGAR PLAZA": [
+      "Tanjong Pagar Plaza Market & Food Centre",
+      1.2758513,
+      103.8403731
+    ],
+    "BLK 628 ANG MO KIO AVENUE 4": [
+      "Ang Mo Kio 628 Market",
+      1.3809997,
+      103.8382169
+    ],
+    "BLK 630 BEDOK RESERVOIR ROAD": [
+      "Bedok Reservoir Food Centre",
+      1.3330729,
+      103.9115652
+    ],
+    "BLK 665 BUFFALO ROAD": [
+      "Tekka Center",
+      1.305756,
+      103.8510615
+    ],
+    "BLK 69 GEYLANG BAHRU": [
+      "Geylang Bahru Market and Food Centre",
+      1.3213447,
+      103.8674836
+    ],
+    "BLK 7 EMPRESS ROAD": [
+      "Empress Market",
+      1.3162641,
+      103.8053576
+    ],
+    "BLK 726 CLEMENTI WEST STREET 2": [
+      "West Coast Market Square",
+      1.3038833,
+      103.7638129
+    ],
+    "BLK 75 TOA PAYOH LORONG 5": [
+      "Blk 75 Lorong 5 Toa Payoh Food Centre",
+      1.3360455,
+      103.8504167
+    ],
+    "BLK 79 CIRCUIT ROAD": [
+      "Circuit Road Hawker Centre",
+      1.3259762,
+      103.8838488
+    ],
+    "BLK 79 TELOK BLANGAH DRIVE": [
+      "Telok Blangah Food Centre",
+      1.2734575,
+      103.8049984
+    ],
+    "BLK 79A CIRCUIT ROAD": [
+      "Circuit Road Hawker Centre",
+      1.3259762,
+      103.8838488
+    ],
+    "BLK 80 CIRCUIT ROAD": [
+      "Circuit Road Market & Food Centre",
+      1.3283353,
+      103.8847173
+    ],
+    "BLK 84 MARINE PARADE CENTRAL": [
+      "Marine Parade Central Market and Food Centre",
+      1.3023792,
+      103.9037361
+    ],
+    "BLK 85 BEDOK NORTH STREET 4": [
+      "Bedok 85 Market",
+      1.3316768,
+      103.9363693
+    ],
+    "BLK 85 REDHILL LANE": [
+      "Redhill Food Centre",
+      1.2873474,
+      103.8157587
+    ],
+    "BLK 89 CIRCUIT ROAD": [
+      "MacPherson Market & Food Centre",
+      1.3255785,
+      103.8835242
+    ],
+    "BLK 90 WHAMPOA DRIVE": [
+      "Whampoa Makan Place",
+      1.3231658,
+      103.8520505
+    ],
+    "BLK 91 WHAMPOA DRIVE": [
+      "Whampoa Food Centre",
+      1.3232977,
+      103.8518173
+    ],
+    "BLK 93 TOA PAYOH LORONG 4": [
+      "Toa Payoh Lorong 4 Blk 93 Market and Hawker Centre",
+      1.3385447,
+      103.8470465
+    ],
+    "BUKIT TIMAH MARKET": [
+      "51 Upper Bukit Timah Rd",
+      "Bukit Timah Market & Food Centre",
+      1.3393531,
+      103.77108
+    ],
+    "CHOMP CHOMP FOOD CENTRE": [
+      "20 Kensington Park Rd",
+      "Chomp Chomp Food Centre",
+      1.3642304,
+      103.8638364
+    ],
+    "COMMONWEALTH CRESCENT MARKET": [
+      "31 Commonwealth Cres",
+      "Commonwealth Crescent Market and Food Centre",
+      1.3069482,
+      103.7978081
+    ],
+    "DUNMAN FOOD CENTRE": [
+      "271 Onan Rd",
+      "Dunman Food Centre",
+      1.3094353,
+      103.8969598
+    ],
+    "EAST COAST LAGOON FOOD VILLAGE": [
+      "1220 ECP, Singapore 468960",
+      "East Coast Lagoon Food Village",
+      1.3069299,
+      103.9323845
+    ],
+    "GEYLANG SERAI MARKET": [
+      "1 Geylang Serai",
+      "Geylang Serai Market and Food Centre",
+      1.3167284,
+      103.8957018
+    ],
+    "GOLDEN MILE FOOD CENTRE": [
+      "505 Beach Rd",
+      "Golden Mile Food Centre",
+      1.3030908,
+      103.861355
+    ],
+    "KALLANG ESTATE MARKET": [
+      "17 Old Airport Rd",
+      "Kallang Estate Market",
+      1.3074316,
+      103.8815624
+    ],
+    "MARKET STREET FOOD CENTRE": [
+      "50 Market St",
+      "Market Street Hawker Centre",
+      1.2849619,
+      103.8326963
+    ],
+    "MARSILING MALL HAWKER CENTRE": [
+      "4 Woodlands Street 12, Level 1",
+      "Marsiling Mall Hawker Centre",
+      1.4335076,
+      103.774993
+    ],
+    "MAXWELL FOOD CENTRE": [
+      "1 Kadayanallur St",
+      "Maxwell Food Centre",
+      1.2803361,
+      103.8421921
+    ],
+    "NEWTON FOOD CENTRE": [
+      "500 Clemenceau Ave N",
+      "Newton Food Centre",
+      1.3119888,
+      103.8369993
+    ],
+    "NORTH BRIDGE ROAD MARKET": [
+      "861 North Bridge Rd",
+      "North Bridge Road Market & Food Centre",
+      1.3054538,
+      103.860878
+    ],
+    "PASIR PANJANG FOOD CENTRE": [
+      "121 Pasir Panjang Rd",
+      "Pasir Panjang Food Centre",
+      1.27598,
+      103.7863843
+    ],
+    "SEMBAWANG HILLS FOOD CENTRE": [
+      "590 Upper Thomson Rd",
+      "Sembawang Hills Food Centre",
+      1.3722883,
+      103.8264326
+    ],
+    "SERANGOON GARDEN MARKET": [
+      "49A Serangoon Garden Way",
+      "Serangoon Garden Market & Food Centre",
+      1.363257,
+      103.8639975
+    ],
+    "TAMAN JURONG MARKET & FOOD CENTRE": [
+      "3 Yung Sheng Rd",
+      "Taman Jurong Food Centre",
+      1.3346605,
+      103.7189775
+    ],
+    "TANGLIN HALT MARKET": [
+      "48A Tanglin Halt Rd",
+      "Tanglin Halt Market",
+      1.3004362,
+      103.7928052
+    ],
+    "TIONG BAHRU MARKET": [
+      "52 Tiong Bahru Rd",
+      "Tiong Bahru Market",
+      1.2851377,
+      103.8303009
+    ],
+    "ZION RIVERSIDE FOOD CENTRE": [
+      "70 Zion Rd",
+      "Zion Riverside Food Centre",
+      1.2924675,
+      103.8287553
+    ]
+  }

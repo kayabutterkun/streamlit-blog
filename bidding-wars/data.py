@@ -7,7 +7,7 @@ import plotly.express as px
 
 @st.cache_data
 def load_raw():
-    dfs = tabula.read_pdf("tender-bids-from-mar-2012-to-jul-2023.pdf",  pages='all', stream=True)
+    dfs = tabula.read_pdf("bidding-wars/tender-bids-from-mar-2012-to-jul-2023.pdf",  pages='all', stream=True)
     for i in range(0, len(dfs)):
         if (dfs[i].shape[1] == 7):
             dfs[i].dropna(axis = 1, thresh = 10, inplace = True)
@@ -25,8 +25,10 @@ def clean(df):
     eateries = df[(df.Trade.isin(['COOKED FOOD', 'HALAL COOKED FOOD', 'INDIAN CUISINE','DRINKS']))].copy()
     eateries['Bid'] = pd.to_numeric( eateries.Bid.str.replace('[^0-9.]','', regex = True) )
     eateries['StallArea'] = pd.to_numeric(eateries.StallArea)
+    eateries['Month'] = pd.to_datetime(eateries['Month'], format = '%b-%Y')
+    eateries['Year'] = eateries['Month'].dt.year
 
-    f = open('location.json')
+    f = open('bidding-wars/location.json')
     manualEateriesDb = json.load(f)
     f.close()
 
@@ -59,34 +61,8 @@ def clean(df):
 
     return eateries
 
-def stallAreaPlot(eateries, option):
-    if option != 'All':
-        eateries = eateries[eateries.GoogleName == option]
-    
-    fig = px.scatter(
-        eateries, x="StallArea", y="Bid", color="Trade",
-        labels = {"Bid": "Bid ($)", "StallArea": "Stall Area (sqm)"},
-        hover_data = ["GoogleName", "Month"],
-        title = "Stall area vs winning bid"
-    )
-    fig.update_layout(legend=dict(
-        orientation="h",
-        yanchor="bottom",
-        y=-0.4,
-        xanchor="right",
-        x=0.8
-    ))
-
-    st.plotly_chart(fig, theme="streamlit", use_container_width=True)
-
-raw = load_raw()
-eateries = clean(raw)
-
-markets = ['All']
-markets.extend(eateries['GoogleName'].unique())
-option = st.selectbox(
-    'Please select market',
-    markets
-)
-
-stallAreaPlot(eateries, option)
+@st.cache_data
+def load_eateries():
+    raw = load_raw()
+    eateries = clean(raw)
+    return eateries
